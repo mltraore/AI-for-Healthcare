@@ -1,6 +1,8 @@
 # Program Resources 
 This file compiles curated links shared throughout the course, providing valuable supplementary resources, references, and materials to enrich the learning experience.
-<details>
+
+## Course 1: Applying AI to 2D Medical Imaging Data
+<details> 
   <summary>
       🧠 <b> Course 1: </b> Applying AI to 2D Medical Imaging Data 
   </summary>
@@ -10,15 +12,17 @@ course content
 course content
 </details>
 
+## Course 2: Applying AI to 3D Medical Imaging Data
 
 <details>
   <summary>
-      🧠 <b> Course 2: </b> Applying AI to 3D Medical Imaging Data 
+      🧠 <b> Lesson 5: </b> Deploying AI Algorithms in Real World Scenarios 
   </summary>
 course content
 course content
 </details>
 
+## Course 3: Applying AI to EHR Data 
 
 <details>
   <summary>
@@ -30,6 +34,7 @@ course content
 course content
 </details>
 
+## Course 4: Applying AI to Wearable Device Data
 
 <details>
   <summary>
