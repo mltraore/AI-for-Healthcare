@@ -20,6 +20,11 @@ course content
   </summary>
 course content
 [Nifti file format](https://brainder.org/2012/09/23/the-nifti-file-format/)
+[MRI](https://hsmradyoloji.com/en/mri-mr/?gad=1&gclid=CjwKCAjw5remBhBiEiwAxL2M98idT3fVIwBwHbwZ4A15vHqahnYBzbwlh_6dfyp_VoRMKtUUUn7zcxoCR90QAvD_BwE)
+[MRI](https://www.fieldtriptoolbox.org/faq/coordsys/)
+[NiBabel](https://nipy.org/nibabel/coordinate_systems.html)
+
+
 </details>
 
 ## Course 3: Applying AI to EHR Data 
