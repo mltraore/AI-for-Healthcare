@@ -19,7 +19,7 @@ course content
       🧠 <b> Lesson 5: </b> Deploying AI Algorithms in Real World Scenarios 
   </summary>
 course content
-course content
+[Nifti file format](https://brainder.org/2012/09/23/the-nifti-file-format/)
 </details>
 
 ## Course 3: Applying AI to EHR Data 
