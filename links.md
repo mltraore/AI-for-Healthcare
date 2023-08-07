@@ -18,7 +18,7 @@ course content
   <summary>
       🧠 <b> Lesson 5: </b> Deploying AI Algorithms in Real World Scenarios 
   </summary>
-course content
+
 [Nifti file format](https://brainder.org/2012/09/23/the-nifti-file-format/)  
 [MRI](https://hsmradyoloji.com/en/mri-mr/?gad=1&gclid=CjwKCAjw5remBhBiEiwAxL2M98idT3fVIwBwHbwZ4A15vHqahnYBzbwlh_6dfyp_VoRMKtUUUn7zcxoCR90QAvD_BwE)  
 [MRI](https://www.fieldtriptoolbox.org/faq/coordsys/)  
@@ -28,6 +28,7 @@ course content
 [DICOM REF](https://clinflows.blog/2022/09/29/dicom-explained-what-is-dicom/#:~:text=The%20DICOM%20Tags%20are%20assigned,uniform%20communication%20protocol%20for%20sharing.)  
 [DICOM REF](https://dicom.nema.org/medical/Dicom/2017e/output/chtml/part06/chapter_6.html)  
 [DICOM REF](https://www.dicomlibrary.com/dicom/dicom-tags/)  
+
 </details>
 
 ## Course 3: Applying AI to EHR Data 
