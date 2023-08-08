@@ -35,32 +35,23 @@ course content
 
 <details>
   <summary>
-      🧠 <b> Course 3: </b> Applying AI to EHR Data 
+      🧠 <b>   Lesson 1: </b> Introduction
   </summary>
 <br/> 
-
-course content
-course content
-</details>
-
-## Course 4: Applying AI to Wearable Device Data
-
-<details>
-  <summary>
-        🧠 <b>   Lesson 1: </b> Introduction
-  </summary>
   [Health Affairs](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2018.05499)  
   [CMS](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsProjected) 
   [50 Surprising Statistics Every Healthcare Stakeholder Must Know](https://www.osplabs.com/insights/50-surprising-statistics-every-healthcare-stakeholder-must-know/)  
   [Apple Healthcare Data](https://www.apple.com/healthcare/health-records/)  
   [Google Cloud Healthcare API](https://cloud.google.com/healthcare-api/docs/projects-datasets-data-stores)  
   [Google Health](https://health.google/)  
-  
+</details>
+
+<details>
   <summary>
-        🧠 <b>   Lesson 2: </b> EHR Data Security and Analysis
-  </summary> 
-  
-  
+      🧠 <b>   Lesson 2: </b> EHR Data Security and Analysis
+  </summary>
+<br/> 
+
   [Value of Medical Data on the Dark web](https://www.experian.com/blogs/ask-experian/heres-how-much-your-personal-information-is-selling-for-on-the-dark-web/)  
   [Hacker Hone their Techniques](https://www.healthcareitnews.com/news/healthcare-data-big-risk-hackers-innovate-and-hone-their-techniques)  
   [Examples from U.S. HIPAA fines](https://www.federalregister.gov/documents/2019/04/30/2019-08530/notification-of-enforcement-discretion-regarding-hipaa-civil-money-penalties)  
@@ -76,6 +67,40 @@ course content
   [CRISP-DM](https://en.wikipedia.org/wiki/Cross-industry_standard_process_for_data_mining)  
   [What is Exploratory Data Analysis](https://towardsdatascience.com/exploratory-data-analysis-8fc1cb20fd15)  
   [EDA in Python](https://towardsdatascience.com/exploratory-data-analysis-in-python-c9a77dfa39ce)  
+    []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []() 
+
+</details>
+
+
+<details>
+  <summary>
+      🧠 <b>   Lesson 3: </b> EHR Code Sets
+  </summary>
+<br/> 
   []()  
   []()  
   []()  
@@ -100,10 +125,124 @@ course content
   []()  
   []()  
   []()  
-  []()  
-  
+  []() 
+
+Content
+</details>
+
+
+
+<details>
+  <summary>
+      🧠 <b>   Lesson 4: </b> EHR Transformations & Feature Engineering
+  </summary>
 <br/> 
 
-course content
-course content
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []() 
+
+</details>
+
+<details>
+  <summary>
+      🧠 <b>   Lesson 5: </b> Building, Evaluating and Interpreting Models
+  </summary>
+<br/> 
+
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []() 
+
+</details>
+
+
+<details>
+  <summary>
+      🧠 <b>   Project: </b>  Patient Selection for Diabetes Drug Testing
+  </summary>
+<br/> 
+
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []()  
+  []() 
+
+</details>
+
+## Course 4: Applying AI to Wearable Device Data
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 1: </b> 
+  </summary>
+
+<br/> 
+
+
 </details>
