@@ -100,29 +100,12 @@ course content
   - [CCS website](https://www.hcup-us.ahrq.gov/toolssoftware/ccs10/ccs10.jsp#download)  
   - [MS-DRG](https://www.cms.gov/Medicare/Medicare-Fee-for-Service-Payment/AcuteInpatientPPS/MS-DRG-Classifications-and-Software)  
   - [SNOMED CT](https://www.snomed.org/five-step-briefing)  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
+  - [Graph Convolutional Transformer](https://arxiv.org/pdf/1906.04716.pdf)  
+  - [Transformer Architecture](https://arxiv.org/abs/1706.03762)  
+  - [Graph Convolutional Transformer - Github Code](https://github.com/Google-Health/records-research/tree/master/graph-convolutional-transformer)  
+  - [Graph Convolutional Transformer - EHR Data](https://eicu-crd.mit.edu/about/eicu/)  
 
-Content
 </details>
-
 
 
 <details>
@@ -130,10 +113,10 @@ Content
       🧠 <b>   Lesson 4: </b> EHR Transformations & Feature Engineering
   </summary>
 
-  - []()  
-  - []()  
-  - []()  
-  - []()  
+  - [Encounter Definitions](https://www.hl7.org/fhir/encounter-definitions.html)  
+  - [Google's Nature Paper-Logitudinal EHR Data Representation](https://www.nature.com/articles/s41746-018-0029-1)  
+  - [Google's Patent- EHRs Data Management Systems and Methods](https://patents.google.com/patent/US20160042124)  
+  - [FHIR Overview](https://www.hl7.org/fhir/overview.html)  
   - []()  
   - []()  
   - []()  
