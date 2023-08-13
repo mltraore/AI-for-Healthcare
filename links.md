@@ -28,7 +28,7 @@ course content
 [DICOM REF](https://clinflows.blog/2022/09/29/dicom-explained-what-is-dicom/#:~:text=The%20DICOM%20Tags%20are%20assigned,uniform%20communication%20protocol%20for%20sharing.)  
 [DICOM REF](https://dicom.nema.org/medical/Dicom/2017e/output/chtml/part06/chapter_6.html)  
 [DICOM REF](https://www.dicomlibrary.com/dicom/dicom-tags/)  
-
+[Anonymize DICOM data](https://pydicom.github.io/pydicom/stable/auto_examples/metadata_processing/plot_anonymize.html#sphx-glr-auto-examples-metadata-processing-plot-anonymize-py)
 </details>
 
 ## Course 3: Applying AI to EHR Data 
