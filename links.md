@@ -31,15 +31,46 @@ course content
 [Anonymize DICOM data](https://pydicom.github.io/pydicom/stable/auto_examples/metadata_processing/plot_anonymize.html#sphx-glr-auto-examples-metadata-processing-plot-anonymize-py)
 </details>
 
+
+<details>
+  <summary>
+      🧠 <b> Project: </b>  Quantifying Hippocampus Volume for Alzheimer's Progression
+  </summary>
+<br/> 
+
+  - [Hippocampus](https://commons.wikimedia.org/wiki/File:Hippocampus_small.gif)  
+  - [Seahorse & Hippocampus](https://commons.wikimedia.org/wiki/File:Hippocampus_and_seahorse.JPG)  
+  - [Hippocampal volume across age: Nomograms derived from over 19,700 people in UK Biobank](https://www.sciencedirect.com/science/article/pii/S2213158219302542 "According to this paper, 2019, the volume of hippocampus varies in a population, depending on various parameters, within certain boundaries, and it is possible to identify a 'normal' range taking into account age, sex, and brain hemisphere.")  
+  - [Medical Decathlon competition](http://medicaldecathlon.com/)  
+  - [Emulating PACS: Orthanc server](https://www.orthanc-server.com/download.php)  
+  - [Viewing images: OHIF zero-footprint web viewer](https://docs.ohif.org/development/getting-started/)  
+  - [DCMTK tools](https://dcmtk.org/en/)  
+  - [Project Rubic](https://learn.udacity.com/nanodegrees/nd320/parts/cd0567/lessons/7aaadba1-56c3-45f3-91ab-cec178d320c7/concepts/7aaadba1-56c3-45f3-91ab-cec178d320c7-project-rubric)  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()
+
+</details>
+
+  
 ## Course 3: Applying AI to EHR Data 
 
 <details>
   <summary>
-      🧠 <b>   Lesson 1: </b> Introduction
+      🧠 <b> Lesson 1: </b> Introduction
   </summary>
 
   - [Health Affairs](https://www.healthaffairs.org/doi/abs/10.1377/hlthaff.2018.05499)  
-  - [CMS](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsProjected) 
+  - [CMS](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsProjected)  
   - [50 Surprising Statistics Every Healthcare Stakeholder Must Know](https://www.osplabs.com/insights/50-surprising-statistics-every-healthcare-stakeholder-must-know/)  
   - [Apple Healthcare Data](https://www.apple.com/healthcare/health-records/)  
   - [Google Cloud Healthcare API](https://cloud.google.com/healthcare-api/docs/projects-datasets-data-stores)  
@@ -48,7 +79,7 @@ course content
 
 <details>
   <summary>
-      🧠 <b>   Lesson 2: </b> EHR Data Security and Analysis
+      🧠 <b> Lesson 2: </b> EHR Data Security and Analysis
   </summary>
 
   - [Value of Medical Data on the Dark web](https://www.experian.com/blogs/ask-experian/heres-how-much-your-personal-information-is-selling-for-on-the-dark-web/)  
