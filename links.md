@@ -301,3 +301,35 @@ course content
   - []()  
 
 </details>
+
+
+## Miscellaneous
+
+<details>
+  <summary>
+        🧠 <b>   Resources </b> 
+  </summary>
+
+  - [PyTorch and Monai for AI Healthcare Imaging](https://www.youtube.com/watch?v=M3ZWfamWrBM&t=10153s&ab_channel=freeCodeCamp.org)
+  - [Using PyTorch Visualization Utilities in Inference Pipeline](https://debuggercafe.com/using-pytorch-visualization-utilities-in-inference-pipeline/)
+  - [Git & GitHub](https://www.youtube.com/playlist?list=PLWKjhJtqVAbkFiqHnNaxpOPhh9tSWMXIF)  
+  - [Efficient PyTorch — Supercharging Training Pipeline](https://towardsdatascience.com/efficient-pytorch-supercharging-training-pipeline-19a26265adae)  
+  - [DICOM Training](https://dcmtk.org/en/services/dicom-training/)  
+  - [Getting started with OHIF](https://docs.ohif.org/development/getting-started/)  
+  - [[Info Need]: Can you share MONAI-like library in TensorFlow/Keras?](https://discuss.tensorflow.org/t/info-need-can-you-share-monai-like-library-in-tensorflow-keras/7976/1)  
+  - [An Introduction to Biomedical Image Analysis with TensorFlow and DLTK](https://blog.tensorflow.org/2018/07/an-introduction-to-biomedical-image-analysis-tensorflow-dltk.html)  
+  - [MIScnn: Medical Image Segmentation with Convolutional Neural Networks](https://github.com/frankkramer-lab/MIScnn)  
+  - [pynetdicom Tutorial: python package for DICOM networking](https://pydicom.github.io/pynetdicom/stable/tutorials/index.html)  
+  - []()
+  - []()
+  - []()
+  - []() 
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []() 
+</details>
