@@ -48,7 +48,15 @@ course content
   - [Viewing images: OHIF zero-footprint web viewer](https://docs.ohif.org/development/getting-started/)  
   - [DCMTK tools](https://dcmtk.org/en/)  
   - [Project Rubic](https://learn.udacity.com/nanodegrees/nd320/parts/cd0567/lessons/7aaadba1-56c3-45f3-91ab-cec178d320c7/concepts/7aaadba1-56c3-45f3-91ab-cec178d320c7-project-rubric)  
-  - []()  
+  - [Secondary Capture IODs](http://dicom.nema.org/medical/dicom/current/output/chtml/part03/sect_A.8.html "If you want to understand better the generation of valid DICOM, remove everything below
+and try writing your own DICOM generation code from scratch.
+Refer to this part of the standard to see what are the requirements for the valid
+Secondary Capture IOD: http://dicom.nema.org/medical/dicom/2019e/output/html/part03.html#sect_A.8
+The Modules table (A.8-1) contains a list of modules with a notice which ones are mandatory (M)
+and which ones are conditional (C) and which ones are user-optional (U)
+Note that we are building an RGB image which would have three 8-bit samples per pixel
+Also note that writing code that generates valid DICOM has a very calming effect
+on mind and body :)")  
   - []()  
   - []()  
   - []()  
