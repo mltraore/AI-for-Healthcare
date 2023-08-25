@@ -33,12 +33,10 @@ course content
 [Anonymize DICOM data](https://pydicom.github.io/pydicom/stable/auto_examples/metadata_processing/plot_anonymize.html#sphx-glr-auto-examples-metadata-processing-plot-anonymize-py)
 </details>
 
-
 <details>
   <summary>
       🧠 <b> Project: </b>  Quantifying Hippocampus Volume for Alzheimer's Progression
   </summary>
-<br/> 
 
   - [Hippocampus](https://commons.wikimedia.org/wiki/File:Hippocampus_small.gif)  
   - [Seahorse & Hippocampus](https://commons.wikimedia.org/wiki/File:Hippocampus_and_seahorse.JPG)  
@@ -57,20 +55,60 @@ and which ones are conditional (C) and which ones are user-optional (U)
 Note that we are building an RGB image which would have three 8-bit samples per pixel
 Also note that writing code that generates valid DICOM has a very calming effect
 on mind and body :)")  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()
-
 </details>
 
+<details>
+  <summary>
+      🧠 <b> Further Resources </b>
+  </summary>
+  <br/>
+  <details>
+    <summary>
+      🧠 <b> Conferences and professional societies </b>
+    </summary>
+  
+   - [MICCAI Society](http://www.miccai.org/) hosts an annual conference dedicated to medical imaging and related fields, and also hosts a number of challenges. One that has consistently generated good volumetric datasets is called [BRATS](http://braintumorsegmentation.org/)  
+   - [Radiological Society of North America](https://www.rsna.org/) is a renowned organization that unifies medical imaging professionals around the globe. In addition to hosting the eponymous largest medical imaging conference in the world it has been turning more attention to AI recently, and hosted interesting medical imaging competitions within its "[AI challenge](https://www.rsna.org/en/education/ai-resources-and-training/ai-image-challenge)" program. Last year's challenged featured a classification problem for CT imaging (although with the focus on 2D methods)  
+   - [SIIM](https://siim.org/page/meetings) is a society that focuses on medical imaging informatics and it has recently started running a machine learning sub-conference called C-MIMI.
+  </details>
+
+  <details>
+    <summary>
+      🧠 <b> Academia </b>
+    </summary>
+    
+   - [Center for Clinical Data Science](https://www.ccds.io/) by Parthers Healthcare  
+   - [Stanford's AIMI](https://aimi.stanford.edu/)  
+   - [National Consortium of Intelligent Medical Imaging](https://www.medsci.ox.ac.uk/research/networks/national-consortium-of-intelligent-medical-imaging), kicked off by the University of Oxford and the UK's National Health Service  
+  </details>
+    
+  <details>
+    <summary>
+      🧠 <b> Startups </b>
+    </summary>
+    <br/>
+    There are plenty and there will be more. Some choose to pursue a clinical workflow, some focus on the application of particular machine learning techniques and some capitalize on existing clinical footprint and invest in platforms that accelerate others' efforts. Some established players are:
+  
+   - [Cortechslabs](https://www.cortechslabs.com/) - focuses on quantitative analysis of brain images. Of particular note is the software called [Neuroquant](https://www.cortechslabs.com/products/neuroquant/) which uses deep learning to produce reports with MRI-based volumetric measurements of structures inside the brain that are related to age-related neurodegenerative disorders such as Alzheimer's. Sounds familiar? :)
+   - [Mirada Medical](https://mirada-medical.com/) - Oxford-based company that advanced the field of radiation oncology with its deep-learning-based segmentation models.
+   - [Arterys](https://www.arterys.com/) - Silicon Valley startup that was the first to obtain an FDA clearance for a deep learning medical imaging suite for oncology.
+   - [Enlitic](https://www.enlitic.com/) - San Francisco-based company aiming at diagnostic use cases that accelerate radiologic workflow.
+   - [Nuance](https://www.nuance.com/healthcare/diagnostics-solutions/ai-marketplace.html) is a Boston-based company that produces a well-established platform of choice for radiological dictation. Recently the company focused a lot of effort on a marketplace for medical imaging AI solutions where startups that do not quite have Nuance's reach can deploy their software.
+   - [Terarecon](https://www.terarecon.com/envoyai/exchange) - similarly to Nuance, this Californian company started in core diagnostic radiology and expanded with an AI marketplace offering branded "EnvoyAI".
+    
+   </details>
+    
+  <details>
+    <summary>
+      🧠 <b> Big Tech </b>
+    </summary>
+    <br/>
+Some big cloud providers are eyeing the space closely, and running their own programs and projects related to medical imaging.
+    
+   - Microsoft Research has a [project InnerEye](https://www.microsoft.com/en-us/research/project/medical-image-analysis/) that for the past 10+ years has been exploring the use of machine learning for a variety of medical imaging applications. One of the instructors of this course had the honor of spending a significant part of his career as a team member here.
+   - Google DeepMind is a group within Google doing some cutting-edge AI research, including [some work on medical imaging](https://deepmind.com/blog/article/ai-uclh-radiotherapy-planning). We can credit them with the contribution to the invention of the U-net which has been prominently featured in this course.
+   </details>
+   </details>
   
 ## Course 3: Applying AI to EHR Data 
 
