@@ -271,7 +271,6 @@ Some big cloud providers are eyeing the space closely, and running their own pro
   <summary>
       🧠 <b>   Project: </b>  Patient Selection for Diabetes Drug Testing
   </summary>
-<br/> 
 
   - []()  
   - []()  
@@ -311,29 +310,9 @@ Some big cloud providers are eyeing the space closely, and running their own pro
 
 <details>
   <summary>
-        🧠 <b>   Lesson 1: </b> 
+        🧠 <b>   Lesson 1: </b> Introduction to Wearable Data
   </summary>
 
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
   - []()  
   - []()  
   - []()  
@@ -348,6 +327,100 @@ Some big cloud providers are eyeing the space closely, and running their own pro
 
 </details>
 
+<details>
+  <summary>
+        🧠 <b>   Lesson 2: </b> Intro to Digital Sampling & Signal Processing
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 3: </b> Introduction to Sensors
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 4: </b> Activity Classification
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 5: </b> ECG Signal Processing
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Project: </b> Motion Compensated Pulse Rate Estimation
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
 
 ## Miscellaneous
 
