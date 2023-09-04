@@ -313,17 +313,34 @@ Some big cloud providers are eyeing the space closely, and running their own pro
         🧠 <b>   Lesson 1: </b> Introduction to Wearable Data
   </summary>
 
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
-  - []()  
+  - [Hillsborough teen: Apple Watch saved my life](https://www.abcactionnews.com/news/region-hillsborough/hillsborough-teen-apple-watch-saved-my-life)  
+  - [5 examples of popular wearable devices in healthcare](https://www.businessinsider.com/5-examples-wearable-healthcare-devices-2021-5)  
+  - [Precision-Recall](https://commons.wikimedia.org/wiki/File:Precisionrecall.svg)  
+  - [Digital health](https://en.wikipedia.org/wiki/Digital_health)  
+  - [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)  
+  - [Framingham Heart Study](https://en.wikipedia.org/wiki/Framingham_Heart_Study)  
+  - [Apple Heart Study: Assessment of Wristwatch-Based Photoplethysmography to Identify Cardiac Arrhythmias](https://classic.clinicaltrials.gov/ct2/show/NCT03335800)  
+  - [Apple Heart Study: Large-scale assessment of a smartwatch to identify atrial fibrillation](https://www.nejm.org/doi/full/10.1056/NEJMoa1901183)  
+  - [Apple Heart Study Response: Watched by Apple](https://www.nejm.org/doi/full/10.1056/NEJMe1913980)  
+  - [Framingham Study: Atrial fibrillation as an independent risk factor for stroke: the Framingham Study](https://www.ahajournals.org/doi/10.1161/01.STR.22.8.983)  
+  - [Wearable Health: Health Wearables: Ensuring Fairness, Preventing Discrimination, and Promoting Equity in an Emerging Internet-of-Things Environment](https://louisville.edu/mobileelsi/wgm-3/wgm-3-background-materials/health-wearables-insuring-fairness-preventing-discrimination-and-promoting-equality-in-an-emerging-internet-of-things-enviromnent_kathryn-montgomery-et-al/)
+  - [Pipfile Example](https://github.com/udacity/nd320-c4-wearable-data-starter/blob/master/Pipfile)
+  - [Pipenv: Python Dev Workflow for Humans](https://pipenv-fork.readthedocs.io/en/latest/index.html)
+  - [Spyder IDE](https://docs.spyder-ide.org/current/index.html)
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
+  - []()
 
 </details>
 
@@ -332,9 +349,9 @@ Some big cloud providers are eyeing the space closely, and running their own pro
         🧠 <b>   Lesson 2: </b> Intro to Digital Sampling & Signal Processing
   </summary>
 
-  - []()  
-  - []()  
-  - []()  
+  - [Sampling Signal Processing](https://en.wikipedia.org/wiki/Sampling_%28signal_processing%29)  
+  - [PhysioNet: The Research Resource for Complex Physiologic Signals](https://physionet.org/)  
+  - [European ST-T Database: ECG dataset along with R wave peak annotations](https://physionet.org/content/edb/1.0.0/)  
   - []()  
   - []()  
   - []()  
