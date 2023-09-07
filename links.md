@@ -271,7 +271,6 @@ Some big cloud providers are eyeing the space closely, and running their own pro
   <summary>
       🧠 <b>   Project: </b>  Patient Selection for Diabetes Drug Testing
   </summary>
-<br/> 
 
   - []()  
   - []()  
@@ -311,7 +310,54 @@ Some big cloud providers are eyeing the space closely, and running their own pro
 
 <details>
   <summary>
-        🧠 <b>   Lesson 1: </b> 
+        🧠 <b>   Lesson 1: </b> Introduction to Wearable Data
+  </summary>
+
+  - [Hillsborough teen: Apple Watch saved my life](https://www.abcactionnews.com/news/region-hillsborough/hillsborough-teen-apple-watch-saved-my-life)  
+  - [5 examples of popular wearable devices in healthcare](https://www.businessinsider.com/5-examples-wearable-healthcare-devices-2021-5)  
+  - [Precision-Recall](https://commons.wikimedia.org/wiki/File:Precisionrecall.svg)  
+  - [Digital health](https://en.wikipedia.org/wiki/Digital_health)  
+  - [Precision and recall](https://en.wikipedia.org/wiki/Precision_and_recall)  
+  - [Framingham Heart Study](https://en.wikipedia.org/wiki/Framingham_Heart_Study)  
+  - [Apple Heart Study: Assessment of Wristwatch-Based Photoplethysmography to Identify Cardiac Arrhythmias](https://classic.clinicaltrials.gov/ct2/show/NCT03335800)  
+  - [Apple Heart Study: Large-scale assessment of a smartwatch to identify atrial fibrillation](https://www.nejm.org/doi/full/10.1056/NEJMoa1901183)  
+  - [Apple Heart Study Response: Watched by Apple](https://www.nejm.org/doi/full/10.1056/NEJMe1913980)  
+  - [Framingham Study: Atrial fibrillation as an independent risk factor for stroke: the Framingham Study](https://www.ahajournals.org/doi/10.1161/01.STR.22.8.983)  
+  - [Wearable Health: Health Wearables: Ensuring Fairness, Preventing Discrimination, and Promoting Equity in an Emerging Internet-of-Things Environment](https://louisville.edu/mobileelsi/wgm-3/wgm-3-background-materials/health-wearables-insuring-fairness-preventing-discrimination-and-promoting-equality-in-an-emerging-internet-of-things-enviromnent_kathryn-montgomery-et-al/)
+  - [Pipfile Example](https://github.com/udacity/nd320-c4-wearable-data-starter/blob/master/Pipfile)
+  - [Pipenv: Python Dev Workflow for Humans](https://pipenv-fork.readthedocs.io/en/latest/index.html)
+  - [Spyder IDE](https://docs.spyder-ide.org/current/index.html)
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 2: </b> Intro to Digital Sampling & Signal Processing
+  </summary>
+
+  - [Sampling Signal Processing](https://en.wikipedia.org/wiki/Sampling_%28signal_processing%29)  
+  - [PhysioNet: The Research Resource for Complex Physiologic Signals](https://physionet.org/)  
+  - [European ST-T Database: ECG dataset along with R wave peak annotations](https://physionet.org/content/edb/1.0.0/)  
+  - [Interpolation](https://en.wikipedia.org/wiki/Interpolation)  
+  - [Linear interpolation](https://en.wikipedia.org/wiki/Linear_interpolation)  
+  - [Fast Fourier transform](https://en.wikipedia.org/wiki/Fast_Fourier_transform)  
+  - [3Blue1Brown - Animated Maths](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw)  
+  - [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)  
+  - [Short-Time Fourier Transform](https://en.wikipedia.org/wiki/Short-time_Fourier_transform)  
+  - [Spectrogram](https://en.wikipedia.org/wiki/Spectrogram)  
+  - [Matplotlib Spectrogram](https://linuxhint.com/matplotlib-spectogram/)  
+  - [Wavelet Transform](https://users.rowan.edu/~polikar/WTpart1.html)  
+  - [The more general uncertainty principle, regarding Fourier transforms](https://www.youtube.com/watch?v=MBnnXbOM5S4)
+  - [Harmonic](https://en.wikipedia.org/wiki/Harmonic) 
+  - [What are harmonics? Exploring the fabric of music](https://splice.com/blog/what-are-harmonics/?utm_term=&campaignid=20329853011&adgroupid=148615476697&adid=664393838102)  
+  - [Why Don't All Instruments Sound The Same?](https://www.youtube.com/watch?v=Q8ITu0EASL4)  
+  - [Music And Measure Theory](https://www.youtube.com/watch?v=cyW5z-M2yzw)  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 3: </b> Introduction to Sensors
   </summary>
 
   - []()  
@@ -342,12 +388,64 @@ Some big cloud providers are eyeing the space closely, and running their own pro
   - []()  
   - []()  
   - []()  
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Lesson 4: </b> Activity Classification
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
   - []()  
   - []()  
   - []()  
 
 </details>
 
+<details>
+  <summary>
+        🧠 <b>   Lesson 5: </b> ECG Signal Processing
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
+
+<details>
+  <summary>
+        🧠 <b>   Project: </b> Motion Compensated Pulse Rate Estimation
+  </summary>
+
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+  - []()  
+
+</details>
 
 ## Miscellaneous
 
